@@ -1,5 +1,5 @@
 -- =======================================================================
--- Author:		John Doe
+-- Author:		    waldo125
 -- Create date:		11.09.2022
 -- Description: 	year over year revenue comparison AdventureWorksDW2019
 -- Execution time:	100 ms
